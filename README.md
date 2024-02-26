@@ -3,7 +3,6 @@
 
 ## 👨🏻‍💻 &nbsp;About Me&nbsp;
 - ⚡ Im a B.Sc Student studyuing Cyber Security and Digital Forensics, based in the UK.
-<!-- 🔍 Seeking new Fully Remote opportunities. -->
 - ✍️ Available for collaborattion on Voluntary and Community Projects.
 - 🎮 In my spare time I enjoy Gaming, CTF, Warhammer and so much more.
 - 😄 Fun fact: I have none.
