@@ -19,6 +19,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Adobe](https://img.shields.io/badge/-Adobe-333333?style=flat&logo=adobe)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
+![GoLang](https://img.shields.io/badge/-GoLang-333333?style=flat&logo=GoLang)
 
 <!--
 ![Enzyme](https://img.shields.io/badge/-Enzyme-333333?style=flat&logo=enzyme)
