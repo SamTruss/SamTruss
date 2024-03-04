@@ -32,7 +32,7 @@
 <br/><br/>
 
 ## ⚙️ &nbsp;GitHub Stats&nbsp;&nbsp;
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamTruss&theme=nightowl)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamTruss&theme=nightowl)](https://git.io/streak-tats)
 ![Sams GitHub stats](https://github-readme-stats.vercel.app/api?username=SamTruss&theme=nightowl&show_icons=true)
 <br/>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
