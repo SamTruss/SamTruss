@@ -40,6 +40,7 @@
 </a>
 
 ### Most Used Languages&nbsp;&nbsp;
+<a href="https://github.com/SamTruss/github-readme-stats"><img alt="Sam's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamTruss&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 ## 🤝🏻 &nbsp;Connect with Me&nbsp;&nbsp;
 <a target="_blank" title="https://www.linkedin.com/in/Samuel-Truss" href="https://www.linkedin.com/in/Samuel-Truss"><img src="https://img.shields.io/badge/-Samuel&nbsp;Truss-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
