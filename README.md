@@ -2,7 +2,7 @@
 <br/>
 
 ## 👨🏻‍💻 &nbsp;About Me&nbsp;
-- ⚡ Im a B.Sc Student studyuing Cyber Security and Digital Forensics, based in the UK.
+- ⚡ Im a Ph.D Student studyuing Cyber Security and Artificial Intelligence, based in the UK.
 - ✍️ Available for collaborattion on Voluntary and Community Projects.
 - 🎮 In my spare time I enjoy Gaming, CTF, Warhammer and so much more.
 - 😄 Fun fact: I have none.
