@@ -1,66 +1,80 @@
-# 👋 Hi, I'm Sam
+```
+███████╗ █████╗ ███╗   ███╗    ████████╗██████╗ ██╗   ██╗███████╗███████╗
+██╔════╝██╔══██╗████╗ ████║       ██╔══╝██╔══██╗██║   ██║██╔════╝██╔════╝
+███████╗███████║██╔████╔██║       ██║   ██████╔╝██║   ██║███████╗███████╗
+╚════██║██╔══██║██║╚██╔╝██║       ██║   ██╔══██╗██║   ██║╚════██║╚════██║
+███████║██║  ██║██║ ╚═╝ ██║       ██║   ██║  ██║╚██████╔╝███████║███████║
+╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝       ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝
+```
 
-Cybersecurity researcher. AI explorer. Occasional breaker of things (professionally, of course).
-
----
-
-## 🧠 About Me
-
-* 🎓 PhD student in **Cyber Security & Artificial Intelligence** (UK-based)
-* 🔍 Interested in security research, offensive tooling, and AI-driven threat analysis
-* 🤝 Open to collaborating on **voluntary and community-driven projects**
-* 🎮 Outside of research: gaming, CTFs, and Warhammer
-* ⚡ Fun fact: still compiling…
-
----
-
-## 🛠 Tech Stack
-
-**Languages & Data**
-
-* SQL, PostgreSQL, Go, Python, Powershell
-
-**Web & Dev Tools**
-
-* HTML5, CSS3, Bootstrap
-* Git, GitHub
-* Docker
-
-**Environment**
-
-* VS Code
-* Adobe Suite
-* PyCharm
-* Anaconda
-* Codex
+```bash
+sam@kali:~$ whoami
+```
+**Sam Truss** — PhD researcher in `Cybersecurity × AI`  
+Breaking assumptions professionally since whenever the compiling finishes.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamTruss\&theme=nightowl)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamTruss\&theme=nightowl\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamTruss\&langs_count=8\&count_private=true\&layout=compact\&theme=react\&hide_border=true\&bg_color=0D1117)
-
----
-
-## 🤝 Connect
-
-* 💼 [LinkedIn](https://www.linkedin.com/in/Samuel-Truss)
+```bash
+sam@kali:~$ cat research.txt
+```
+Intersection of **artificial intelligence** and **offensive security**.  
+Currently asking: what happens when the attacker has a PhD and a GPU cluster?  
+`# AI-driven threat analysis · adversarial ML · attack surface modelling`
 
 ---
 
-## 🧩 Current Focus
-
-* AI applications in cybersecurity
-* Capture The Flag challenges & offensive security
-* Building tools that are actually useful (rare, I know)
+```bash
+sam@kali:~$ ls ./skills
+```
+`Python` `Go` `SQL` `PostgreSQL` `PowerShell` `Docker` `Git` `HTML5` `CSS3` `Bootstrap`
 
 ---
 
-## 🧪 Philosophy
+```bash
+sam@kali:~$ cat philosophy.md
+```
+Security is not a tooling problem — it's a thinking problem.  
+**Break assumptions. Test everything. Trust nothing.**  
+`# especially not the thing you just assumed was safe`
 
-Security is less about tools and more about **thinking clearly under uncertainty**.
-Break assumptions. Test everything. Trust nothing.
+---
+
+```bash
+sam@kali:~$ cat current_processes.txt
+```
+
+| process | status |
+|---|---|
+| PhD research — AI × cybersecurity | `RUNNING` |
+| CTF season / offensive tooling | `ACTIVE` |
+| Community & voluntary projects | `OPEN` |
+| Gaming · Warhammer | `BACKGROUND` |
+
+---
+
+```bash
+sam@kali:~$ cat stack_proficiency.txt
+```
+
+```
+Python      ████████████████████░░  90%
+SQL / PG    ███████████████████░░░  85%
+PowerShell  █████████████████░░░░░  75%
+Go          ████████████████░░░░░░  70%
+Docker      ██████████████░░░░░░░░  65%
+```
+
+---
+
+```bash
+sam@kali:~$ curl linkedin.com/in/samuel-truss
+```
+[linkedin.com/in/Samuel-Truss](https://www.linkedin.com/in/Samuel-Truss) `# open to DMs`
+
+---
+
+```bash
+sam@kali:~$ status
+● ONLINE · still compiling_
+```
