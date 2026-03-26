@@ -18,7 +18,7 @@ Cybersecurity researcher. AI explorer. Occasional breaker of things (professiona
 
 **Languages & Data**
 
-* SQL, PostgreSQL, Go
+* SQL, PostgreSQL, Go, Python, Powershell
 
 **Web & Dev Tools**
 
@@ -30,6 +30,9 @@ Cybersecurity researcher. AI explorer. Occasional breaker of things (professiona
 
 * VS Code
 * Adobe Suite
+* PyCharm
+* Anaconda
+* Codex
 
 ---
 
