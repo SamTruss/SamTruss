@@ -142,7 +142,7 @@
   <!-- connect block -->
   <rect x="20" y="1030" width="760" height="90" fill="#101410" rx="6" stroke="#1f2e22" stroke-width="1"/>
   <circle cx="40" cy="1046" r="5" fill="#ff5f57"/><circle cx="56" cy="1046" r="5" fill="#ffbd2e"/><circle cx="72" cy="1046" r="5" fill="#28c840"/>
-  <text x="40" y="1069" font-family="'JetBrains Mono','Courier New',monospace" font-size="12" fill="#5a7a5c">sam@kali:~$</text>
+  <text x="40" y="1069" font-family="'JetBrains Mono','Courier New',monospace" font-size="12" fill="#5a7a5c">sam@keele:~$</text>
   <text x="140" y="1069" font-family="'JetBrains Mono','Courier New',monospace" font-size="12" fill="#39ff47">curl linkedin.com/in/samuel-truss</text>
   <text x="40" y="1091" font-family="'JetBrains Mono','Courier New',monospace" font-size="12" fill="#39ff47" text-decoration="underline">linkedin.com/in/Samuel-Truss</text>
   <text x="310" y="1091" font-family="'JetBrains Mono','Courier New',monospace" font-size="12" fill="#3d5e40">  # open to DMs</text>
@@ -150,7 +150,7 @@
   <!-- GitHub stats placeholder -->
   <rect x="20" y="1140" width="760" height="90" fill="#101410" rx="6" stroke="#1f2e22" stroke-width="1"/>
   <circle cx="40" cy="1156" r="5" fill="#ff5f57"/><circle cx="56" cy="1156" r="5" fill="#ffbd2e"/><circle cx="72" cy="1156" r="5" fill="#28c840"/>
-  <text x="40" y="1179" font-family="'JetBrains Mono','Courier New',monospace" font-size="12" fill="#5a7a5c">sam@kali:~$</text>
+  <text x="40" y="1179" font-family="'JetBrains Mono','Courier New',monospace" font-size="12" fill="#5a7a5c">sam@keele:~$</text>
   <text x="140" y="1179" font-family="'JetBrains Mono','Courier New',monospace" font-size="12" fill="#39ff47">./status</text>
   <!-- pulse dot -->
   <circle cx="52" cy="1208" r="5" fill="#39ff47">
