@@ -67,9 +67,9 @@ PRISMA-guided review of 72 included studies. Introduces (i) the unified four-lay
 
 ## `~$ ls ./projects`
 
-🤖 **[Parameter-AI](https://github.com/SamTruss/Parameter-AI)** — single-agent prototype implementing the four-layer model
+🤖 **Pathfinder AI** — single-agent prototype implementing the four-layer model
 
-The empirical instantiation of the SLR's analytical framework. Currently scoped as a v0.1 single-agent system: observe → reason → decide → act → store, with MCP-governed tool integration for reconnaissance, vulnerability scanning, and bounded exploitation against an OT testbed.
+The empirical instantiation of the SLR's analytical framework. A single-agent system running observe → reason → decide → act → store, with MCP-governed tool integration for reconnaissance, vulnerability scanning, and bounded exploitation against a SWaT-inspired Modbus testbed.
 
 ```
 agent/         decision loop · planner · governance hooks
@@ -104,16 +104,15 @@ testbed/       OpenPLC · simpy process simulation · Docker Compose
 ## `~$ ./current_focus`
 
 ```
-┌─[ THESIS ]───────────────────────────────────────────────┐
-│  ▸ Empirical chapters — implementation & evaluation      │
-│  ▸ Benchmark runs against SWaT-inspired Modbus testbed   │
+┌─[ PATHFINDER AI ]────────────────────────────────────────┐
+│  ▸ Single-agent prototype build-out                      │
+│  ▸ MCP tool layer · governance hooks · audit trail       │
+│  ▸ observe → reason → decide → act → store               │
 └──────────────────────────────────────────────────────────┘
-┌─[ PAPER ]────────────────────────────────────────────────┐
-│  ▸ SLR final revisions · Section 9.3.9 validation walk   │
-│  ▸ Per-database query supplement · 72 included_studies   │
-└──────────────────────────────────────────────────────────┘
-┌─[ NEXT ]─────────────────────────────────────────────────┐
-│  ▸ Paper 2 — empirical results from prototype evaluation │
+┌─[ TESTBED ]──────────────────────────────────────────────┐
+│  ▸ SWaT-inspired Modbus environment                      │
+│  ▸ OpenPLC · simpy process simulation · Docker Compose   │
+│  ▸ Seeded vulnerabilities · benchmark run protocol       │
 └──────────────────────────────────────────────────────────┘
 ```
 
