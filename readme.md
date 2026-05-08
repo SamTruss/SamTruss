@@ -86,13 +86,10 @@ testbed/       OpenPLC · simpy process simulation · Docker Compose
 
 ![Python](https://img.shields.io/badge/Python%203.11+-C73E1D?style=for-the-badge&logo=python&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic%20API-D8572A?style=for-the-badge&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-A4243B?style=for-the-badge&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-E55934?style=for-the-badge&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-FF6B35?style=for-the-badge&logo=docker&logoColor=white)
 ![OpenPLC](https://img.shields.io/badge/OpenPLC-C73E1D?style=for-the-badge&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-D8572A?style=for-the-badge&logoColor=white)
 ![pymodbus](https://img.shields.io/badge/pymodbus-A4243B?style=for-the-badge&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali%20Linux-2D1B14?style=for-the-badge&logo=kalilinux&logoColor=FF6B35)
 ![pytest](https://img.shields.io/badge/pytest-E55934?style=for-the-badge&logo=pytest&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-FF6B35?style=for-the-badge&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-C73E1D?style=for-the-badge&logo=git&logoColor=white)
