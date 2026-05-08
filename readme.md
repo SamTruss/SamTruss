@@ -124,10 +124,6 @@ Companion artefact to Pathfinder AI. A reproducible Modbus-enabled water-treatme
 
 ![Metrics](./metrics.svg)
 
-<a href="https://github.com/SamTruss">
-  <img src="https://github-profile-trophy.vercel.app/?username=SamTruss&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
-</a>
-
 </div>
 
 ---
