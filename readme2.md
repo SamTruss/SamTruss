@@ -67,7 +67,7 @@ PRISMA-guided review of 72 included studies. Introduces (i) the unified four-lay
 
 ## `~$ ls ./projects`
 
-🤖 **[AgenticVAPT](https://github.com/SamTruss/AgenticVAPT)** — single-agent prototype implementing the four-layer model
+🤖 **[Parameter-AI](https://github.com/SamTruss/Parameter-AI)** — single-agent prototype implementing the four-layer model
 
 The empirical instantiation of the SLR's analytical framework. Currently scoped as a v0.1 single-agent system: observe → reason → decide → act → store, with MCP-governed tool integration for reconnaissance, vulnerability scanning, and bounded exploitation against an OT testbed.
 
