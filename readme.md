@@ -122,12 +122,7 @@ Companion artefact to Pathfinder AI. A reproducible Modbus-enabled water-treatme
 
 <div align="center">
 
-<a href="https://github.com/SamTruss">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SamTruss&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=FF6B35&icon_color=E55934&text_color=c9d1d9&ring_color=C73E1D&cache_seconds=1800" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/SamTruss">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamTruss&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=c9d1d9&langs_count=8&cache_seconds=1800" alt="Top Languages" />
-</a>
+![Metrics](./metrics.svg)
 
 <a href="https://github.com/SamTruss">
   <img src="https://github-profile-trophy.vercel.app/?username=SamTruss&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
