@@ -5,7 +5,7 @@
 [![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3800&pause=900&color=FF6B35&center=true&vCenter=true&width=780&lines=Agentic+%26+Generative+AI+for+Autonomous+VAPT;OT+%2F+IIoT+Security+%C2%B7+MCP-Mediated+Tool+Orchestration;observe+%E2%86%92+reason+%E2%86%92+decide+%E2%86%92+act+%E2%86%92+store)](https://git.io/typing-svg)
 
 [![Keele](https://img.shields.io/badge/Keele%20University-C73E1D?style=for-the-badge&logoColor=white)](https://www.keele.ac.uk)
-[![ORCID](https://img.shields.io/badge/ORCID-E55934?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org)
+[![ORCID](https://img.shields.io/badge/ORCID-E55934?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-4694-0606)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6B35?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-truss)
 
 </div>
@@ -67,16 +67,19 @@ PRISMA-guided review of 72 included studies. Introduces (i) the unified four-lay
 
 ## `~$ ls ./projects`
 
-🤖 **Pathfinder AI** — single-agent prototype implementing the four-layer model
+🤖 **[Pathfinder AI](https://github.com/SamTruss/Pathfinder-AI)** — single-agent prototype implementing the four-layer model
 
-The empirical instantiation of the SLR's analytical framework. A single-agent system running observe → reason → decide → act → store, with MCP-governed tool integration for reconnaissance, vulnerability scanning, and bounded exploitation against a SWaT-inspired Modbus testbed.
+The empirical instantiation of the SLR's analytical framework. A single-agent system running observe → reason → decide → act → store, with MCP-governed tool integration for reconnaissance, vulnerability scanning, and bounded exploitation.
 
 ```
 agent/         decision loop · planner · governance hooks
 tools/         MCP-wrapped Nmap · pymodbus · NVD lookup
 memory/        JSON Lines audit trail · SHA-256 content hashing
-testbed/       OpenPLC · simpy process simulation · Docker Compose
 ```
+
+🏭 **[Multi-PLC Water Treatment Testbed](https://github.com/SamTruss/Multi-PLC-Water-Treatment-Testbed)** — SWaT-inspired OT evaluation environment
+
+Companion artefact to Pathfinder AI. A reproducible Modbus-enabled water-treatment testbed for evaluating agentic and generative AI in autonomous VAPT of OT/ICS environments. OpenPLC, simpy process simulation, Docker Compose, seeded vulnerabilities matching the published benchmark specification.
 
 ---
 
@@ -119,15 +122,15 @@ testbed/       OpenPLC · simpy process simulation · Docker Compose
 
 <div align="center">
 
-<a href="https://github.com/samtruss">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=samtruss&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=FF6B35&icon_color=E55934&text_color=c9d1d9&ring_color=C73E1D&cache_seconds=1800" alt="GitHub Stats" />
+<a href="https://github.com/SamTruss">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SamTruss&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=FF6B35&icon_color=E55934&text_color=c9d1d9&ring_color=C73E1D&cache_seconds=1800" alt="GitHub Stats" />
 </a>
-<a href="https://github.com/samtruss">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samtruss&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=c9d1d9&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+<a href="https://github.com/SamTruss">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamTruss&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=c9d1d9&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 </a>
 
-<a href="https://github.com/samtruss">
-  <img src="https://github-profile-trophy.vercel.app/?username=samtruss&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
+<a href="https://github.com/SamTruss">
+  <img src="https://github-profile-trophy.vercel.app/?username=SamTruss&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
 </a>
 
 </div>
@@ -140,6 +143,6 @@ testbed/       OpenPLC · simpy process simulation · Docker Compose
 
 🟠 **ONLINE** · *still compiling_*
 
-![Visitors](https://komarev.com/ghpvc/?username=samtruss&style=for-the-badge&color=FF6B35&label=VISITORS)
+![Visitors](https://komarev.com/ghpvc/?username=SamTruss&style=for-the-badge&color=FF6B35&label=VISITORS)
 
 </div>
