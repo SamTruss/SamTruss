@@ -122,8 +122,16 @@ testbed/       OpenPLC · simpy process simulation · Docker Compose
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samtruss&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF6B35&icon_color=E55934&text_color=c9d1d9&ring_color=C73E1D)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samtruss&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=c9d1d9&langs_count=8)
+<a href="https://github.com/samtruss">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=samtruss&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=FF6B35&icon_color=E55934&text_color=c9d1d9&ring_color=C73E1D&cache_seconds=1800" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/samtruss">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samtruss&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF6B35&text_color=c9d1d9&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+</a>
+
+<a href="https://github.com/samtruss">
+  <img src="https://github-profile-trophy.vercel.app/?username=samtruss&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
+</a>
 
 </div>
 
