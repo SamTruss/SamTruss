@@ -56,7 +56,7 @@ research_pillars:
 
 ## `~$ ls ./publications`
 
-📑 **Systematic Literature Review** — *in revision · Elsevier (Computers & Security / JISA)*
+📑 **Systematic Literature Review** — *in revision · Elsevier (TBC)*
 
 > Truss, S. R. A., Ghanem, M. C., Lacerda, M. J., Kheddar, H., Alshawki, M., Kenaza, T., Kalganova, T.
 > **"Agentic and Generative AI for Intelligent Autonomous Vulnerability Assessment and Penetration Testing: A Systematic Analysis."** 2026.
