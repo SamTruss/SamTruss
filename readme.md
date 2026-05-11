@@ -7,6 +7,7 @@
 [![Keele](https://img.shields.io/badge/Keele%20University-C73E1D?style=for-the-badge&logoColor=white)](https://www.keele.ac.uk)
 [![ORCID](https://img.shields.io/badge/ORCID-E55934?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-4694-0606)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6B35?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-truss)
+[![LinkedIn](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=linkedin&logoColor=white)](https://samtruss.github.io/PortfolioWebsite/)
 
 </div>
 
